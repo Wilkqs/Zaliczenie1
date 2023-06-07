@@ -7,7 +7,9 @@ public class Main {
         System.out.println("Podaj równanie w formie ax + b = y");
         System.out.print("Podaj wartość a:");
         double a = scanner.nextDouble();
+      
         System.out.print("Podaj wartość b:");
+      
         double b = scanner.nextDouble();
 
         if (a==0) {
